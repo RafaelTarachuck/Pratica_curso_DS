@@ -1,3 +1,3 @@
-# Pratica_curso_DS
-Práricas do Cursode cIêntista de dados
-Praticas desenvolvidas ao longo do curso.
+# Práticas em Python do Curso Formação Cientista de Dados com Python e R
+### Cada pasta contém separadamente uma atividade e os arquivos necessários para a análise de dados caso seja esse o objetivo da atividade.
+
